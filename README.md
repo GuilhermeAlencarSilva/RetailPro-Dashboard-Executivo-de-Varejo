@@ -144,7 +144,7 @@ Antes da construção dos dashboards, foi realizada uma análise exploratória n
 | Custos     | Custo logístico médio: R$ 22,10.                         | 35% maior em e-commerce.                              |
 
 💡 Conclusão geral:
-Margem e satisfação têm relação inversa com devoluções e prazos — a eficiência operacional impacta diretamente a experiência do cliente e o lucro.
+Margem e satisfação têm relação inversa com devoluções e prazos a eficiência operacional impacta diretamente a experiência do cliente e o lucro.
 
 📊 6. Estrutura dos Dashboards
 🟣 Página 1 – Resumo Executivo (CEO View)
@@ -220,7 +220,7 @@ Slicers horizontais padronizados para consistência de navegação.
 🚀 8. Conclusões e Recomendações Estratégicas
 📈 Comerciais
 
-Expandir presença digital — E-commerce é o principal gerador de receita.
+Expandir presença digital E-commerce é o principal gerador de receita.
 
 Reavaliar política de descontos em regiões com devoluções altas.
 
