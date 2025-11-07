@@ -70,7 +70,64 @@ O script foi projetado para gerar 50.000 registros entre 2023 e 2024, permitindo
 
 📊 4. Medidas Dax
 
+Receita Total = SUM ( Fato_Vendas[Receita] )
 
+Custo Total = SUM ( Fato_Vendas[Custo] )
+
+Lucro Total = SUM ( Fato_Vendas[Lucro] )
+
+Margem Média (%) = 
+DIVIDE (
+    [Lucro Total],
+    [Receita Total]
+)
+
+Ticket Médio = 
+DIVIDE (
+    [Receita Total],
+    SUM ( Fato_Vendas[Quantidade] )
+)
+
+Desconto Médio (%) = AVERAGE ( Fato_Vendas[Desconto_pct] )
+
+Quantidade Total = SUM ( Fato_Vendas[Quantidade] )
+
+Ano Selecionado = SELECTEDVALUE ( Dim_Tempo[Ano] )
+
+Lucro x Meta = 
+VAR MetaLucro = [Receita Total] * 0.20
+RETURN
+DIVIDE( [Lucro Total], MetaLucro, 0 )
+
+ROI (%) = 
+DIVIDE (
+    [Lucro Total],
+    [Custo Total]
+)
+
+% Receita Acumulada =
+VAR TotalReceita = [Receita Total]
+VAR ReceitaCrescente =
+    CALCULATE(
+        [Receita Total],
+        FILTER(
+            ALLSELECTED(Dim_Produto),
+            [Receita Total] >= MAX([Receita Total])
+        )
+    )
+RETURN DIVIDE(ReceitaCrescente, [Receita Total], 0)
+
+Prazo Médio de Entrega (dias) =
+AVERAGE ( Fato_Vendas[Prazo_Entrega_Dias] )
+
+% Devoluções Média =
+AVERAGE ( Fato_Vendas[Devolucoes_%] )
+
+Satisfação Média =
+AVERAGE ( Fato_Vendas[Satisfacao] )
+
+Custo Logístico Médio (R$) =
+AVERAGE ( Fato_Vendas[Custo_Logistica] )
 
 🧠 5. Análise Exploratória e Insights
 
@@ -209,6 +266,6 @@ Este projeto mostra como um analista de dados sênior transforma dados brutos em
 
 📎 10. Links e Contatos
 
-💡 Medium: [seu artigo completo]
+💡 Medium: https://medium.com/@GuilhermeAlencarCruz
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/guilherme-alencar-327413213/
