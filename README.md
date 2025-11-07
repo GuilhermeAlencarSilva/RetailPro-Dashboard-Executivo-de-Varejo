@@ -1,9 +1,13 @@
 🛍️ RetailPro – Dashboard Executivo de Varejo (Power BI + Python + Figma)
 
 📆 Período analisado: 2023–2024
-👤 Autor: [Seu Nome] – Analista de Dados Sênior
+
+👤 Autor: Guilherme Alencar – Analista de Dados
+
 🧰 Ferramentas: Python, Power BI, Figma, DAX
+
 📈 Modelo: Star Schema (Fato + 4 Dimensões)
+
 🎨 Tema: Claro com detalhes em roxo e lilás
 
 🧭 1. Contexto e Objetivo do Projeto
