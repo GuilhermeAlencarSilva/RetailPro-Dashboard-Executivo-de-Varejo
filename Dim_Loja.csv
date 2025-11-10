@@ -1,0 +1,55 @@
+ID_Loja;Nome_Loja;Estado;UF;Tipo_Loja
+1;RetailPro RO - Matriz;Rondônia;RO;Física
+2;RetailPro RO - E-commerce;Rondônia;RO;E-commerce
+3;RetailPro AC - Matriz;Acre;AC;Física
+4;RetailPro AC - E-commerce;Acre;AC;E-commerce
+5;RetailPro AM - Matriz;Amazonas;AM;Física
+6;RetailPro AM - E-commerce;Amazonas;AM;E-commerce
+7;RetailPro RR - Matriz;Roraima;RR;Física
+8;RetailPro RR - E-commerce;Roraima;RR;E-commerce
+9;RetailPro PA - Matriz;Pará;PA;Física
+10;RetailPro PA - E-commerce;Pará;PA;E-commerce
+11;RetailPro AP - Matriz;Amapá;AP;Física
+12;RetailPro AP - E-commerce;Amapá;AP;E-commerce
+13;RetailPro TO - Matriz;Tocantins;TO;Física
+14;RetailPro TO - E-commerce;Tocantins;TO;E-commerce
+15;RetailPro MA - Matriz;Maranhão;MA;Física
+16;RetailPro MA - E-commerce;Maranhão;MA;E-commerce
+17;RetailPro PI - Matriz;Piauí;PI;Física
+18;RetailPro PI - E-commerce;Piauí;PI;E-commerce
+19;RetailPro CE - Matriz;Ceará;CE;Física
+20;RetailPro CE - E-commerce;Ceará;CE;E-commerce
+21;RetailPro RN - Matriz;Rio G. do Norte;RN;Física
+22;RetailPro RN - E-commerce;Rio G. do Norte;RN;E-commerce
+23;RetailPro PB - Matriz;Paraíba;PB;Física
+24;RetailPro PB - E-commerce;Paraíba;PB;E-commerce
+25;RetailPro PE - Matriz;Pernambuco;PE;Física
+26;RetailPro PE - E-commerce;Pernambuco;PE;E-commerce
+27;RetailPro AL - Matriz;Alagoas;AL;Física
+28;RetailPro AL - E-commerce;Alagoas;AL;E-commerce
+29;RetailPro BA - Matriz;Bahia;BA;Física
+30;RetailPro BA - E-commerce;Bahia;BA;E-commerce
+31;RetailPro SE - Matriz;Sergipe;SE;Física
+32;RetailPro SE - E-commerce;Sergipe;SE;E-commerce
+33;RetailPro MG - Matriz;Minas Gerais;MG;Física
+34;RetailPro MG - E-commerce;Minas Gerais;MG;E-commerce
+35;RetailPro ES - Matriz;Espírito Santo;ES;Física
+36;RetailPro ES - E-commerce;Espírito Santo;ES;E-commerce
+37;RetailPro RJ - Matriz;Rio de Janeiro;RJ;Física
+38;RetailPro RJ - E-commerce;Rio de Janeiro;RJ;E-commerce
+39;RetailPro SP - Matriz;São Paulo;SP;Física
+40;RetailPro SP - E-commerce;São Paulo;SP;E-commerce
+41;RetailPro PR - Matriz;Paraná;PR;Física
+42;RetailPro PR - E-commerce;Paraná;PR;E-commerce
+43;RetailPro SC - Matriz;Santa Catarina;SC;Física
+44;RetailPro SC - E-commerce;Santa Catarina;SC;E-commerce
+45;RetailPro RS - Matriz;Rio G. do Sul;RS;Física
+46;RetailPro RS - E-commerce;Rio G. do Sul;RS;E-commerce
+47;RetailPro MS - Matriz;Mato G. do Sul;MS;Física
+48;RetailPro MS - E-commerce;Mato G. do Sul;MS;E-commerce
+49;RetailPro MT - Matriz;Mato Grosso;MT;Física
+50;RetailPro MT - E-commerce;Mato Grosso;MT;E-commerce
+51;RetailPro GO - Matriz;Goiás;GO;Física
+52;RetailPro GO - E-commerce;Goiás;GO;E-commerce
+53;RetailPro DF - Matriz;Distrito Federal;DF;Física
+54;RetailPro DF - E-commerce;Distrito Federal;DF;E-commerce
