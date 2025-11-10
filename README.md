@@ -149,6 +149,8 @@ Margem e satisfação têm relação inversa com devoluções e prazos a eficiê
 📊 6. Estrutura dos Dashboards
 🟣 Página 1 – Resumo Executivo (CEO View)
 
+<img width="584" height="793" alt="Captura Resumo Executivo" src="https://github.com/user-attachments/assets/f3c0ac5e-84bc-43e4-83b9-e2d125371369" />
+
 KPIs: Receita, Lucro, Margem, Ticket Médio.
 
 Gráfico: Receita × Lucro (coluna + linha).
@@ -163,19 +165,9 @@ Insight Box: texto automático destacando alertas (ROI negativo, margem baixa).
 
 🎯 Público: diretoria e C-level (visão de 30 segundos).
 
-🟣 Página 2 – Produtos & Categorias
+🟣 Página 2 – Operações & Logística
 
-KPIs: Receita, Lucro, Margem, Quantidade Vendida.
-
-Top N Produtos (barras horizontais) com seletor interativo.
-
-Gráfico de Rosca: participação da receita por categoria.
-
-Scatter: correlação Margem × Receita × Lucro.
-
-📈 Insight: produtos de alto faturamento nem sempre possuem maior margem — importante balancear volume e rentabilidade.
-
-🟣 Página 3 – Operações & Logística
+<img width="584" height="793" alt="Captura Operações e Logistica" src="https://github.com/user-attachments/assets/d26c9c31-8a50-4f4e-9cbf-3955fb812d53" />
 
 KPIs: Prazo, Devoluções, Satisfação, Custo Logístico.
 
@@ -189,7 +181,10 @@ Barras: % Devoluções por Categoria.
 
 📦 Insight: Prazos longos e altos descontos aumentam devoluções em até 20%.
 
-🟣 Página 4 – Clientes & Canais
+🟣 Página 3 – Clientes & Canais
+
+<img width="585" height="793" alt="Captura Clientes e Canais" src="https://github.com/user-attachments/assets/99cbfabb-7098-4048-87ac-c108acf72b8c" />
+
 
 KPIs: Receita, Lucro, Ticket Médio, Quantidade Média por Pedido.
 
@@ -202,6 +197,20 @@ Barras Horizontais: Top Categorias por Ticket Médio.
 Scatter: Ticket × Margem × Canal.
 
 🛒 Insight: o E-commerce tem ticket 35% maior, mas margem 8 p.p. menor.
+
+🟣 Página 4 – Produtos & Categorias
+
+<img width="541" height="792" alt="Captura Analise de Produtos e Categorias" src="https://github.com/user-attachments/assets/2b883237-c241-48b1-9377-9a851347b469" />
+
+KPIs: Receita, Lucro, Margem, Quantidade Vendida.
+
+Top N Produtos (barras horizontais) com seletor interativo.
+
+Gráfico de Rosca: participação da receita por categoria.
+
+Scatter: correlação Margem × Receita × Lucro.
+
+📈 Insight: produtos de alto faturamento nem sempre possuem maior margem — importante balancear volume e rentabilidade.
 
 🎨 7. Design & UX (Figma)
 
